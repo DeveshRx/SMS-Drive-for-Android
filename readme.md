@@ -6,6 +6,9 @@
 
 SMS Drive is a simple and easy backup solution to sync your SMS messages across devices. You don't need to uninstall your favorite default SMS App, SMS Drive is made to work along with default SMS App as an Companion for backup drive.
 
+[![download app](./assets/google-play-badge.png)](https://play.google.com/store/apps/details?id=devesh.ephrine.backup.sms)
+
+
 ### Features:
 - Sync Messages Across Multiple Devices.
 - Backup & Restore Messages
@@ -37,6 +40,7 @@ You can export sms to various file formats such as Text, HTML, JSON.
 You don't need to uninstall your favorite default SMS App, SMS Drive is made to work along with default SMS App as a Companion for backup drive. SMS Drive can also become your default SMS App for receiving messages.
 
 
+[![download app](./assets/google-play-badge.png)](https://play.google.com/store/apps/details?id=devesh.ephrine.backup.sms)
 
 
 #### Official Website:
@@ -57,3 +61,6 @@ https://deveshrx.com/apps/sms-drive
 
 ![SMS Drive](./assets/Play-Store-Screenshot-Screenshot-6.png)
 
+
+
+[![download app](./assets/google-play-badge.png)](https://play.google.com/store/apps/details?id=devesh.ephrine.backup.sms)
