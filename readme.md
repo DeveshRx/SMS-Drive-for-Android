@@ -1,8 +1,8 @@
 ![SMS Drive Header](./assets/Play-Store-Screenshot-Feature.png)
 
 ## Backup & Restore Device Messages, Export SMS to Text File, Sync across Devices.
-
-
+[![Generic badge](https://img.shields.io/badge/Version-3.0.0-blue.svg)](https://github.com/DeveshRx/SMS-Drive-for-Android/releases)
+[![Generic badge](https://img.shields.io/badge/Website-DeveshRx.com-blue.svg)](https://deveshrx.com/apps/sms-drive)
 
 SMS Drive is a simple and easy backup solution to sync your SMS messages across devices. You don't need to uninstall your favorite default SMS App, SMS Drive is made to work along with default SMS App as an Companion for backup drive.
 
